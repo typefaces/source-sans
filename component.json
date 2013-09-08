@@ -1,0 +1,13 @@
+{
+  "name": "source-sans",
+  "repo": "typefaces/source-sans",
+  "description": "The Source Sans typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "typefaces/source-sans-regular": "*",
+    "typefaces/source-sans-italic": "*",
+    "typefaces/source-sans-semibold": "*",
+    "typefaces/source-sans-semibold-italic": "*"
+  }
+}
