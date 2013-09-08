@@ -1,4 +1,3 @@
-
 # source-sans
   
   The [Source Sans](https://typekit.com/fonts/source-sans-pro) typeface.
@@ -21,7 +20,6 @@
   * [Bold Italic](https://github.com/typefaces/source-sans-bold-italic) (`700`, `italic`)
   * [Black](https://github.com/typefaces/source-sans-black) (`900`)
   * [Black Italic](https://github.com/typefaces/source-sans-black-italic) (`900`, `italic`)
-
 
 ## License
 
